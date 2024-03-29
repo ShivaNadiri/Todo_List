@@ -1,2 +1,3 @@
 # Todo_List
-Todo_List App using React.js,JavaScript
+this is a very simple todo list application written using React.js
+
